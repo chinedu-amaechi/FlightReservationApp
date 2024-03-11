@@ -1,0 +1,4 @@
+X7689, TB-4017, Try a Bus Airways, 1444, Luka Haasdyk, Canadian, Active
+A6777, TB-4017, Try a Bus Airways, 1444, Luka Haasdyk, Canadian, Active
+D6029, VA-9950, Vertical Airways, 270, Luna Armstrong, American, Active
+F5370, VA-9950, Vertical Airways, 270, Luna Armstrong, American, Active

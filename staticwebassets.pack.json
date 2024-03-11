@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\MauiAppFlightReservation.styles.css",
+      "PackagePath": "staticwebassets\\MauiAppFlightReservation.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\wwwroot\\Data\\airports.csv",
+      "PackagePath": "staticwebassets\\Data\\airports.csv"
+    },
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\wwwroot\\Data\\flights.csv",
+      "PackagePath": "staticwebassets\\Data\\flights.csv"
+    },
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\wwwroot\\Data\\reservations.txt",
+      "PackagePath": "staticwebassets\\Data\\reservations.txt"
+    },
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\chyme\\OneDrive\\Desktop\\MauiAppFlightReservation\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.MauiAppFlightReservation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.MauiAppFlightReservation.props",
+      "PackagePath": "build\\MauiAppFlightReservation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.MauiAppFlightReservation.props",
+      "PackagePath": "buildMultiTargeting\\MauiAppFlightReservation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.MauiAppFlightReservation.props",
+      "PackagePath": "buildTransitive\\MauiAppFlightReservation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
